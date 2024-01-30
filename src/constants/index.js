@@ -65,7 +65,7 @@ const service = [
     {
         title: "Yoolt",
         image: yoolt,
-        description:"Its is a TASK MANAGEMENT AND MEETING PLATFORM using React JS as back-end and Nest JS as front-end."
+        description:"Its is a TASK MANAGEMENT AND MEETING PLATFORM using React JS as front-end and Nest JS as back-end."
     },
 ];
 
